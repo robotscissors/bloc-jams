@@ -102,8 +102,8 @@ body {
 
 .clearfix::before,
 .clearfix::after {
-  content:" ",
-  dispaly: table;
+  content:" ";
+  display: table;
 }
 
 .clearfix::after {
